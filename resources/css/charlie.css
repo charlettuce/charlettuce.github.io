@@ -121,6 +121,7 @@ th {
     margin: 10px auto;
     display: block;
     position: relative;
+    overflow: scroll;
 
 }
 
@@ -134,6 +135,7 @@ th {
     margin: 10px auto;
     display: block;
     position: relative;
+    overflow: scroll;
 }
 
 .j1,
@@ -150,6 +152,7 @@ th {
     margin: 10px auto;
     display: block;
     position: relative;
+    overflow: scroll;
 }
 
 .hob {
