@@ -44,7 +44,7 @@ body {
 }
 
 header {
-    background-color: grey;
+    background-color: dimgrey;
     width: 100%;
     position: fixed;
     z-index: 10;
@@ -67,7 +67,7 @@ header li {
 }
 
 header a {
-    color:white;
+    color: white;
     text-decoration: none;
     font-size: 20px;
 }
