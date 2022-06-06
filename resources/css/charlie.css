@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url("https://images.wallpapersden.com/image/download/grey-background-and-colorful-circle_a2toZ2uUmZqaraWkpJRobWllrWdma2U.jpg");
+    background-color: grey;
     background-size: 100%;
     color: white;
 }
@@ -44,7 +44,7 @@ body {
 }
 
 header {
-    background-image: url("https://images.wallpapersden.com/image/download/grey-background-and-colorful-circle_a2toZ2uUmZqaraWkpJRobWllrWdma2U.jpg");
+    background-color: grey;
     width: 100%;
     position: fixed;
     z-index: 10;
