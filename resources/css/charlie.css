@@ -1,0 +1,179 @@
+* {
+    font-family:Helvetica, sans-serif;
+}
+
+body {
+    background-image: url("https://images.wallpapersden.com/image/download/grey-background-and-colorful-circle_a2toZ2uUmZqaraWkpJRobWllrWdma2U.jpg");
+    background-size: 100%;
+    color: white;
+}
+
+.title h1 {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 350px;
+    font-size: 50px;
+    letter-spacing: 1.3px;
+}
+
+.home ul {
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    top: 400px;
+}
+
+.home li {
+    font-size: 30px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.home a {
+    color:white;
+    text-decoration: none;
+}
+
+.home a:hover {
+    color: #2a6b89;
+}
+
+.home li {
+    padding: 0 50px;
+}
+
+header {
+    background-image: url("https://images.wallpapersden.com/image/download/grey-background-and-colorful-circle_a2toZ2uUmZqaraWkpJRobWllrWdma2U.jpg");
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    border-bottom: 1px solid black;
+}
+header ul {
+    margin: 30px auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+header li {
+    text-transform: uppercase;
+    display: inline-block;
+    max-width:200px;
+    width: auto;
+    padding: 0 20px;
+}
+
+header a {
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+header a:hover {
+    color: #2a6b89;
+}
+
+.info {
+    position: relative;
+    top: 85px;
+}
+
+.info h1 {
+    text-align: center;
+}
+
+.about p {
+    text-align: center;
+    max-width: 1000px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+table {
+    text-align: center;
+    margin: auto auto;
+    position: relative;
+    top: 150px;
+    border-spacing: 0px;
+}
+
+td {
+    border: 2px solid white;
+    padding: 20px;
+}
+
+th {
+    border: 2px solid white;
+}
+
+.alev {
+    border: 2px solid white;
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    max-height: 430px;
+    text-align: center;
+    margin: 10px auto;
+    display: block;
+    position: relative;
+
+}
+
+.gcse {
+    border: 2px solid white;
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    max-height: 430px;
+    text-align: center;
+    margin: 10px auto;
+    display: block;
+    position: relative;
+}
+
+.j1,
+.j2,
+.j3,
+.j4,
+.j5 {
+    border: 2px solid white;
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    max-height: 300px;
+    text-align: center;
+    margin: 10px auto;
+    display: block;
+    position: relative;
+}
+
+.hob {
+    text-align: center;
+}
+
+#piano {
+    width: auto;
+    height: auto;
+    max-width: 512px;
+    max-height: 341px;
+}
+
+#val {
+    width: auto;
+    height: auto;
+    max-width: 512px;
+    max-height: 341px;
+}
+
+.hob p {
+    max-width: 750px;
+    width: auto;
+    margin: 10px auto;
+    display: block;
+    position: relative;
+}
